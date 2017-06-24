@@ -8,6 +8,7 @@ body {
 
 h1{
   font-size: 50px;
+  font-weight: normal;
 }
 
 h2{
@@ -17,7 +18,7 @@ h2{
 
 p{
   color: grey;
-  font-size: 21;
+  font-size: 21px;
 }
 
 .downloadLink {
